@@ -3,5 +3,5 @@
 
 ### 在项目中添加JDLoadingHUD
 #### CocoaPods
-1、在Profile中添加`pod JDLoadingHUD`
+1、在Profile中添加`pod 'JDLoadingHUD'`
 <br>2、运行命令`pod install`
